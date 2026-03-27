@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pigeon.jpg"
   name             : "Emily Jensen"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "this is stressful"
