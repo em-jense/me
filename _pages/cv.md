@@ -44,7 +44,7 @@ Skills
 * Technology
   * Digital photography
   * Recording equiptment
-  * Audio editing softward
+  * Audio editing software
   * Google and Microsoft Suites
 
 Scholarship
