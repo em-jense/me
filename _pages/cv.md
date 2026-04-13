@@ -13,7 +13,7 @@ Education
 ======
 * MLIS - University of Alberta
 
-September 2024-2026 (expected)
+  September 2024-2026 (expected)
 
 * B.A. - University of Alberta
 
