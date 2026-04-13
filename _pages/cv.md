@@ -18,6 +18,7 @@ September 2024-2026 (expected)
 * B.A. - University of Alberta
 
   Major in Women's and Gender Studies and Minor in Classics
+
   September 2020 - June 2024
 
 Work experience
@@ -49,6 +50,7 @@ Skills
 Scholarship
 ======
 Jensen, E. (2026, March 5). Technologies of rule: Defining the human within science fiction and archival studies [Conference presentation]. Future Information Professionals (FIP) Conference. Edmonton, Alberta. 
+
 Jensen, E. (2022, March 20). Love: A tool of oppression or of revolution? [Conference presentation]. Interdisciplinary Feminist, Gender, and Sexualities Undergraduate Conference. Edmonton, Alberta.
   
 Service and leadership
