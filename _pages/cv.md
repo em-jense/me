@@ -17,6 +17,7 @@ Education
 Work experience
 ======
 * Cat Cafe on Whyte - Barista
+
   June 2020-present
   * Cash handling for both opening and closing; including the till, float, and cashbox
   * Training of new staff and maintaining standard procedure as a senior level member of staff
