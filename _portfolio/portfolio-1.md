@@ -1,6 +1,6 @@
 ---
 title: "Experiment 1 Tracery Poem"
-excerpt: "little blurb explanation<br/><img src='/images/500x300.png'>"
+excerpt: "little blurb explanation<br/><img src='/images/stardewportrait.png'>"
 collection: portfolio
 ---
 
