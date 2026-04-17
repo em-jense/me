@@ -8,6 +8,8 @@ collection: portfolio
 
 This one page rpg was created through inspiration of spending a weekend in a castle for my friend's delayed Christmas present. Using the mechanic system developed by John Harper for the one page rpg [Lasers & Feelings](https://johnharper.itch.io/lasers-feelings), this rpg is designed to be a fun little romp into a chaotic week before the summer camp season starts. It is inspired by camping in the forest, teen movies, and by my regular rpg group the consists of my sister and our friends. Camp Castle is intended to be a low stakes, high fun rpg that can be played with 3 to 7 people that blends nostalgic real-world summer camps with a touch of fantasy typical of many rpg games. The game can be played as a oneshot, or can be extended into a slightly longer game - whatever suits the players! 
 
+I polished the game slightly from its original inception by redesigning the formatting to fit all of the major details onto a single page rather than being two sides of one piece of paper which it was initially. I also added some more aesthetic elements with colours, and created an optional character sheet to accompany the main game if desired. 
+
 ![Camp Castle One Page RPG](/me/images/campcastle.jpg)
 
 ![Optional Character Sheet](/me/images/cc-charactersheet.jpg)
