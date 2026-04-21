@@ -1,6 +1,6 @@
 ---
 title: "test for twine"
-excerpt: "little blurb explanation<br/><img src='/images/500x300.png'>"
+excerpt: "little blurb explanation"
 collection: portfolio
 ---
 
