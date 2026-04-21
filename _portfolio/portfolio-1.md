@@ -1,6 +1,6 @@
 ---
 title: "Camp Castle - A One Page RPG"
-excerpt: "A one page rpg inspired by a castle weekend with friends <br/><img src='/images/stardewportrait.png'>"
+excerpt: "A one page rpg inspired by a castle weekend with friends"
 collection: portfolio
 ---
 
