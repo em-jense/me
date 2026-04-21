@@ -1,6 +1,6 @@
 ---
 title: "can i try again? - Tracery Poem with Open Processing"
-excerpt: "A procedural text poem about trying over and over to get something right or do it over. Sometimes it works. Most of the time it doesn't. <br/><img src='/images/stardewportrait.png'>"
+excerpt: "A procedural text poem about trying over and over to get something right or do it over. Sometimes it works. Most of the time it doesn't."
 collection: portfolio
 ---
 [can i try again?](https://openprocessing.org/sketch/2860578) 
